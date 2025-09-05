@@ -1,2 +1,2 @@
 # Expense-Tracker
-Expense Tracker is a full-stack app built with Spring Boot, MySQL, HTML, CSS, JS, and Chart.js. It lets users add, update, delete, and categorize expenses (food, travel, shopping, bills), track spending hourly or daily, and view interactive charts for clear financial insights.
+A full-stack Expense Tracker web application designed for developers to visually track and manage daily expenses by category and hour using interactive charts. Built with Spring Boot (backend), MySQL (database), and HTML/CSS/JavaScript (frontend) with Chart.js integration for data visualization.
